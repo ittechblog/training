@@ -7,6 +7,18 @@
 *.jar
 *.war
 *.ear
+*.idea
+*.build
+*.gradle
+*build
+.gitignore
+*.iml
+target
+*.log
+*.out
+gradlew*
+!build.gradle
+!settings.gradle
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
