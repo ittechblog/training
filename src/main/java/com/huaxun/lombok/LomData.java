@@ -7,6 +7,6 @@ import lombok.Data;
  */
 public @Data class LomData {
 
-    String name;
-    String address;
+    private String name;
+    private String address;
 }
